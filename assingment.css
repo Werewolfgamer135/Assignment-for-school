@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: darkblue;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: darkred;
+}
+
+P{
+    font-size: 14pt;
+}
